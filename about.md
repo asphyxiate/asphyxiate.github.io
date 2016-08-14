@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Duane had spent 10 long, gruelling years climbing corporate ladders in the IT industry. He was good at what he did – DAMN good -, had great communication skills and interfaced well with people which led to quickly accessing and achieving desired results for clients and colleagues alike. But it wasn’t enough. He just wasn’t satisfied. He wasn’t happy. Something was missing… something… creative.
+Duane had spent 10 long, gruelling years climbing corporate ladders in the IT industry. He was good at what he did â€“ DAMN good -, had great communication skills and interfaced well with people which led to quickly accessing and achieving desired results for clients and colleagues alike. But it wasnâ€™t enough. He just wasnâ€™t satisfied. He wasnâ€™t happy. Something was missingâ€¦ somethingâ€¦ creative.
 
 The realisation would change the course of his life for the better.
 
