@@ -6,13 +6,18 @@
 
       <div class="trigger">
         <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="{{ site.baseurl }}/">blog</a>
-
+        <a class="page-link" href="{{ site.baseurl }}/">home</a>
+        <a class="page-link" href="/portfolio/">portfolilo</a>  
+        <a class="page-link" href="/about/">about</a>
+        <a class="page-link" href="/contact/">contact</a>
+        
+        <!-- old title format  
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        -->
 
       </div>
     </nav>
