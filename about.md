@@ -21,13 +21,12 @@ With his newfound skills in 3D character and environmental modelling, and with a
 <br/>
 <span class="contacticon center">
 	<a href="mailto:duanemcpherson@gmail.com"><i class="fa fa-envelope-square"></i></a>
-<--!	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a> -->
 	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://http://dmcmodelling.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	Please email me for the fastest response.
+	Please use one of the above links to get in contact with me :)
 </div>
 
