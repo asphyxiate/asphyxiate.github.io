@@ -1,17 +1,20 @@
 ---
 layout: page
-title: contact
-permalink: /contact/
+title: résumé
+permalink: /resume/
 ---
 
+<img class="col one right" src="/img/res_pic.jpg">
+
 <br/>
-Interested in contacting Duane? Complete the form below and click submit!
+--pdf option here--
+
+--insert resume content here--
 
 
 
 <br/>
 <hr/>
-Or feel free to use one of the handy methods below...
 <br/>
 <span class="contacticon center">
 	<a href="mailto:duanemcpherson@gmail.com"><i class="fa fa-envelope-square"></i></a>
@@ -20,5 +23,7 @@ Or feel free to use one of the handy methods below...
 	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
-
+<div class="col three caption">
+	Please use one of the above links to get in contact with me :)
+</div>
 
