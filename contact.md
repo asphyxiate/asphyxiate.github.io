@@ -7,7 +7,12 @@ permalink: /contact/
 <br/>
 Interested in contacting Duane? Complete the form below and click submit!
 
-
+<form action="https://formspree.io/your@email.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
 
 <br/>
 <hr/>
