@@ -27,3 +27,6 @@ collections:
     permalink: /poetry/:path/
 
 
+# Gems
+gems: [jekyll-paginate]
+
