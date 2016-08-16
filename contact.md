@@ -18,7 +18,6 @@ Interested in contacting Duane? Complete the form below and click submit!
 
 <br/>
 <hr/>
-<br/>
 <div class="col three caption">
 	Or check out what I'm up to by clicking one of these handy links :)
 <br/>
