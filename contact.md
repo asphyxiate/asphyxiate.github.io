@@ -8,7 +8,7 @@ permalink: /contact/
 Interested in contacting Duane? Complete the form below and click submit!
 <br/>
 
-<form action="//formspree.io/duanemcpherson@gmail.com" autocomplete="off" class="emailform" method="POST">
+<form action="//formspree.io/duanemcpherson@gmail.com" autocomplete="off" class="emailform centre" method="POST">
             <input type="text" placeholder="name" name="name"> <br>
             <input type="email" placeholder="email" name="_replyto"> <br>
             <textarea type="text" placeholder="message" name="message"></textarea> <br>
