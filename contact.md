@@ -18,7 +18,6 @@ Interested in contacting Duane? Complete the form below and click submit!
 
 <br/>
 <hr/>
-Or feel free to use one of the handy methods below...
 <br/>
 <span class="contacticon center">
 	<a href="mailto:duanemcpherson@gmail.com"><i class="fa fa-envelope-square"></i></a>
@@ -27,5 +26,7 @@ Or feel free to use one of the handy methods below...
 	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
+<div class="col three caption">
+	Or check out what I'm up to by clicking one of these handy links :)
 
 
