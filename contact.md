@@ -19,6 +19,9 @@ Interested in contacting Duane? Complete the form below and click submit!
 <br/>
 <hr/>
 <br/>
+<div class="col three caption">
+	Or check out what I'm up to by clicking one of these handy links :)
+<br/>
 <span class="contacticon center">
 	<a href="mailto:duanemcpherson@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
@@ -26,7 +29,6 @@ Interested in contacting Duane? Complete the form below and click submit!
 	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
-<div class="col three caption">
-	Or check out what I'm up to by clicking one of these handy links :)
+
 
 
