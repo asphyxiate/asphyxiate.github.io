@@ -4,7 +4,6 @@ title: contact
 permalink: /contact/
 ---
 
-<br/>
 Interested in contacting Duane? Complete the form below and click submit!
 <br/>
 
