@@ -9,54 +9,54 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
 <br>
 <hr>
 <br>
-<div class="resumetable">
+<div class="resumetable resumeheaders">
      <div class="resumeleft">
-        <h2>Education</h2>
+        <h1>Education</h1>
         <br>
-        <h4>Griffith University</h4>
+        <h2>Griffith University</h2>
         <p>Bachelor of Animation<br>
         2015 – Present</p>
         <br>
-        <h2>Work Experience</h2>
+        <h1>Work Experience</h1>
         <br>
-        <h4>BWS</h4>
+        <h2>BWS</h2>
         <p>Sales Assistant<br>
         August 2015 - Present</p>
         
-        <h4>Thiess Pty Ltd</h4>
+        <h2>Thiess Pty Ltd</h2>
         <p>Senior Help Desk Officer<br>
         August 2012 – June 2015</p>
         
-        <h4>Thiess Pty Ltd</h4>
+        <h2>Thiess Pty Ltd</h2>
         <p>Help Desk Officer<br>
         September 2009 – August 2012</p>
         
-        <h4>HSBC Insurance Brokers (UK)</h4>
+        <h2>HSBC Insurance Brokers (UK)</h2>
         <p>Application Support<br>
         July 2008 – June 2009</p>
         
-        <h4>Telstra Communications/Julia Ross Consulting</h4>
+        <h2>Telstra Communications/Julia Ross Consulting</h2>
         <p>Data Analyst<br>
         March 2007 – April 2008</p>
         
-        <h4>Queensland Newspapers (News Ltd)</h4>
+        <h2>Queensland Newspapers (News Ltd)</h2>
         <p>Customer Service/Circulation Officer<br>
         June 2004 – February 2007</p>
         
-        <h4>SM2 Web Developments</h4>
+        <h2>SM2 Web Developments</h2>
         <p>Network Manager (traineeship)<br>
         April 2003 – May 2004</p>
         
         </div>
    <div class="resumeright">
-        <h2>Skills</h2>
+        <h1>Skills</h1>
         <br>
-        <h4>Primary</h4>
+        <h2>Primary</h2>
         <p>
         -	Modelling<br>
         -	3D Animation<br>
         </p><br>
-        <h4>Secondary</h4>
+        <h2>Secondary</h2>
         <p>
         -	Rigging<br>
         -	Texturing<br>
@@ -68,7 +68,7 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         -	Photography<br>
         -	IT Support<br>
         </p><br>
-        <h4>Software</h4>
+        <h2>Software</h2>
         <p>
         -	Maya<br>
         -	Vue Xstream<br>

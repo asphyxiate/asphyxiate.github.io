@@ -344,3 +344,13 @@ font-size: $caption_font_size;
 .resumetable { padding:10px; width:100%; overflow:hidden; }
 .resumeleft { float:left; width:70%; }
 .resumeright { float:right; width:30%;  }
+
+.resumeheaders{
+      h1{
+        color: $theme-color;
+        font-size:35px;
+    }
+    h2{
+        font-size:25px;
+    }
+}
