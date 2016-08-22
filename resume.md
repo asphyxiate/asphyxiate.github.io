@@ -47,7 +47,7 @@ June 2004 – February 2007
 <br/>
 <h4>SM2 Web Developments</h4>
 <p>Network Manager (traineeship)<br/>
-April 2003 – May 2004
+April 2003 – May 2004</p>
 <br/>
 
 <h2>Skills</h2>
