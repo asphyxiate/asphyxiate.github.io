@@ -4,14 +4,98 @@ title: résumé
 permalink: /resume/
 ---
 
-<img class="col one right" src="/img/res_pic.jpg">
+## <img class="col one right" src="/img/res_pic.jpg">
 
 <br/>
 Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
+<br/>
+<hr>
+<br/>
+<div class="col two">
 
---insert resume content here--
+<h2>Education</h2><br/>
+<br/>
+<p>Griffith University<br/>
+Bachelor of Animation<br/>
+2015 – Present</p><br/>
+
+<br/>
+<br/>
+<h2>Work Experience</h2><br/>
+<br/>
+<p>BWS<br/>
+Sales Assistant<br/>
+August 2015 - Present<br/>
+<br/>
+Thiess Pty Ltd<br/>
+Senior Help Desk Officer<br/>
+August 2012 – June 2015<br/>
+<br/>
+Thiess Pty Ltd<br/>
+Help Desk Officer<br/>
+September 2009 – August 2012<br/>
+<br/>
+HSBC Insurance Brokers (UK)<br/>
+Application Support<br/>
+July 2008 – June 2009<br/>
+<br/>
+Telstra Communications/Julia Ross Consulting<br/>
+Data Analyst<br/>
+March 2007 – April 2008<br/>
+<br/>
+Queensland Newspapers (News Ltd)<br/>
+Customer Service & Circulation Officer<br/>
+June 2004 – February 2007<br/>
+<br/>
+SM2 Web Developments<br/>
+Network Manager (traineeship)<br/>
+April 2003 – May 2004</p><br/>
 
 
+<br/>
+<br/>
+</div>
+
+<div class="col two right">
+<h2>Skills</h2><br/>
+<br/>
+<h1>Primary</h1><br/>
+<br/><p>
+-	Modelling<br/>
+-	3D Animation<br/>
+</p><br/>
+<br/>
+<h1>Secondary</h1><br/>
+<br/><p>
+-	Rigging<br/>
+-	Texturing<br/>
+-	Lighting<br/>
+-	Drawing<br/>
+-	Video Editing<br/>
+-	Sound Editing<br/>
+-	Web Design<br/>
+-	Photography<br/>
+-	IT Support<br/>
+</p><br/>
+<br/>
+<h1>Software</h1><br/>
+<br/><p>
+-	Maya<br/>
+-	Vue Xstream<br/>
+-	Photoshop<br/>
+-	Premiere<br/>
+-	After Effects<br/>
+-	Toon Boom<br/>
+-	Light Room<br/>
+-	Pro Tools<br/>
+-	Jekyll<br/>
+-	Windows<br/>
+-	Linux<br/>
+-	Mac OSX<br/>
+</p>
+</div>
+
+<hr/>
 
 <br/>
 <hr/>
