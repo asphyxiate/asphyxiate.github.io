@@ -27,27 +27,27 @@ August 2015 - Present
 <br/>
 <h4>Thiess Pty Ltd</h4>
 <p>Senior Help Desk Officer<br/>
-August 2012 – June 2015</p>
+August 2012 – June 2015
 <br/>
 <h4>Thiess Pty Ltd</h4>
 <p>Help Desk Officer<br/>
-September 2009 – August 2012</p>
+September 2009 – August 2012
 <br/>
 <h4>HSBC Insurance Brokers (UK)</h4>
 <p>Application Support<br/>
-July 2008 – June 2009</p>
+July 2008 – June 2009
 <br/>
 <h4>Telstra Communications/Julia Ross Consulting</h4>
 <p>Data Analyst<br/>
-March 2007 – April 2008</p>
+March 2007 – April 2008
 <br/>
 <h4>Queensland Newspapers (News Ltd)</h4>
 <p>Customer Service & Circulation Officer<br/>
-June 2004 – February 2007</p>
+June 2004 – February 2007
 <br/>
 <h4>SM2 Web Developments</h4>
 <p>Network Manager (traineeship)<br/>
-April 2003 – May 2004</p>
+April 2003 – May 2004
 <br/>
 
 <h2>Skills</h2>
