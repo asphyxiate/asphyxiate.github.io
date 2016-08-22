@@ -11,7 +11,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <hr>
 <br/>
-<div class="col left">
+<div class="col two left">
 
 <h2>Education</h2><br/>
 <br/>
@@ -56,7 +56,7 @@ April 2003 – May 2004</p><br/>
 <br/>
 </div>
 
-<div class="col right">
+<div class="col two right">
 <h2>Skills</h2><br/>
 <br/>
 <h1>Primary</h1><br/>
