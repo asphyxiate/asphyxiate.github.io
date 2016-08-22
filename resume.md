@@ -16,16 +16,12 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         <h4>Griffith University</h4>
         <p>Bachelor of Animation<br/>
         2015 – Present</p>
-    </div>
-    <div class="resumeright">
         <br/>
         <h2>Work Experience</h2>
         <br/>
         <h4>BWS</h4>
         <p>Sales Assistant<br/>
         August 2015 - Present
-    </div>
-</div>
         <br/>
         <h4>Thiess Pty Ltd</h4>
         <p>Senior Help Desk Officer<br/>
@@ -44,7 +40,7 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         March 2007 – April 2008
         <br/>
         <h4>Queensland Newspapers (News Ltd)</h4>
-        <p>Customer Service & Circulation Officer<br/>
+        <p>Customer Service/Circulation Officer<br/>
         June 2004 – February 2007
         <br/>
         <h4>SM2 Web Developments</h4>
