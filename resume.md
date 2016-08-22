@@ -9,11 +9,13 @@ permalink: /resume/
 <br/>
 Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
 
---insert resume content here--
+<br/>
+<br/>
+<hr>
 
 <div class="col left">
 
-Education<br/>
+<h1>Education<h1/><br/>
 <br/>
 Griffith University<br/>
 Bachelor of Animation<br/>
@@ -21,7 +23,7 @@ Bachelor of Animation<br/>
 
 <br/>
 <br/>
-Work Experience<br/>
+<h1>Work Experience<h1/><br/>
 <br/>
 BWS<br/>
 Sales Assistant<br/>
@@ -57,7 +59,7 @@ April 2003 – May 2004<br/>
 </div>
 
 <div class="col right">
-Skills<br/>
+<h1>Skills<h1/><br/>
 <br/>
 Primary<br/>
 <br/>
@@ -95,7 +97,7 @@ Software<br/>
 
 </div>
 
-
+<hr/>
 
 <br/>
 <hr/>
