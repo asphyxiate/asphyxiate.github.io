@@ -15,7 +15,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 
 <h2>Education</h2><br/>
 <br/>
-<h1>Griffith University</h1><br/>
+<h1>Griffith University</h1>
 <p>Bachelor of Animation<br/>
 2015 – Present</p><br/>
 
@@ -23,7 +23,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <h2>Work Experience</h2><br/>
 <br/>
-<h1>BWS</h1><br/>
+<h1>BWS</h1>
 <p>Sales Assistant<br/>
 August 2015 - Present<br/>
 <br/>
