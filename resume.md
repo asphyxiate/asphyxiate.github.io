@@ -20,51 +20,46 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 2015 – Present</p><br/>
 
 <br/>
-<br/>
 <h2>Work Experience</h2><br/>
 <br/>
 <h1>BWS</h1>
 <p>Sales Assistant<br/>
 August 2015 - Present<br/>
 <br/>
-<h1>Thiess Pty Ltd</h1><br/>
+<h1>Thiess Pty Ltd</h1>
 <p>Senior Help Desk Officer<br/>
 August 2012 – June 2015</p><br/>
 <br/>
-<h1>Thiess Pty Ltd</h1><br/>
+<h1>Thiess Pty Ltd</h1>
 <p>Help Desk Officer<br/>
 September 2009 – August 2012</p><br/>
 <br/>
-<h1>HSBC Insurance Brokers (UK)</h1><br/>
+<h1>HSBC Insurance Brokers (UK)</h1>
 <p>Application Support<br/>
 July 2008 – June 2009</p><br/>
 <br/>
-<h1>Telstra Communications/Julia Ross Consulting</h1><br/>
+<h1>Telstra Communications/Julia Ross Consulting</h1>
 <p>Data Analyst<br/>
 March 2007 – April 2008</p><br/>
 <br/>
-<h1>Queensland Newspapers (News Ltd)</h1><br/>
+<h1>Queensland Newspapers (News Ltd)</h1>
 <p>Customer Service & Circulation Officer<br/>
 June 2004 – February 2007</p><br/>
 <br/>
-<h1>SM2 Web Developments</h1><br/>
+<h1>SM2 Web Developments</h1>
 <p>Network Manager (traineeship)<br/>
 April 2003 – May 2004</p><br/>
-
-
-<br/>
 <br/>
 </div>
 
 <div class="right">
 <h2>Skills</h2><br/>
 <br/>
-<h1>Primary</h1><br/>
+<h1>Primary</h1>
 <br/><p>
 -	Modelling<br/>
 -	3D Animation<br/>
 </p><br/>
-<br/>
 <h1>Secondary</h1><br/>
 <br/><p>
 -	Rigging<br/>
@@ -77,8 +72,7 @@ April 2003 – May 2004</p><br/>
 -	Photography<br/>
 -	IT Support<br/>
 </p><br/>
-<br/>
-<h1>Software</h1><br/>
+<h1>Software</h1>
 <br/><p>
 -	Maya<br/>
 -	Vue Xstream<br/>
