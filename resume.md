@@ -5,10 +5,12 @@ permalink: /resume/
 ---
 
 <br/>
-Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
+Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
 <br/>
 <hr>
 <br/>
+<div class="resumetable">
+<div class="resumeleft">
 <h2>Education</h2>
 <br/>
 <h4>Griffith University</h4>
@@ -46,7 +48,8 @@ June 2004 – February 2007
 <p>Network Manager (traineeship)<br/>
 April 2003 – May 2004</p>
 <br/>
-<div class="right">
+</div>
+<div class="resumeright">
 <h2>Skills</h2>
 <br/>
 <h4>Primary</h4>
@@ -81,6 +84,7 @@ April 2003 – May 2004</p>
 -	Linux<br/>
 -	Mac OSX<br/>
 </p>
+</div>
 </div>
 <br/>
 <br/>

@@ -340,3 +340,7 @@ font-size: $caption_font_size;
 @media (max-width: 500px){
     #contact p {text-align: left;}
 }
+
+.resumetable { padding:10px; width:100%; overflow:hidden; }
+.resumeleft { float:left; width:50%; }
+.resumeright { float:right; width:50%;  }
