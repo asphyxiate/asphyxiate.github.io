@@ -11,10 +11,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 
 --insert resume content here--
 
-div { 
-	column-count: 2;
-	column-gap: 40px;
-}
+<div class="col left">
 
 Education<br/>
 <br/>
@@ -57,9 +54,9 @@ April 2003 – May 2004<br/>
 
 <br/>
 <br/>
+</div>
 
-
-
+<div class="col right">
 Skills<br/>
 <br/>
 Primary<br/>
@@ -96,7 +93,7 @@ Software<br/>
 -	Linux<br/>
 -	Mac OSX<br/>
 
-
+</div>
 
 
 
