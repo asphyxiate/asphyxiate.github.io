@@ -8,8 +8,9 @@ layout: default
   <hr>
 </div>
 <br>
+<br>
 
-<ul class="post-list">
+<ul class="post-list centre">
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
