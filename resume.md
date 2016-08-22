@@ -24,31 +24,31 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <h1>BWS</h1>
 <p>Sales Assistant<br/>
-August 2015 - Present<br/>
+August 2015 - Present
 <br/>
 <h1>Thiess Pty Ltd</h1>
 <p>Senior Help Desk Officer<br/>
-August 2012 – June 2015</p><br/>
+August 2012 – June 2015</p>
 <br/>
 <h1>Thiess Pty Ltd</h1>
 <p>Help Desk Officer<br/>
-September 2009 – August 2012</p><br/>
+September 2009 – August 2012</p>
 <br/>
 <h1>HSBC Insurance Brokers (UK)</h1>
 <p>Application Support<br/>
-July 2008 – June 2009</p><br/>
+July 2008 – June 2009</p>
 <br/>
 <h1>Telstra Communications/Julia Ross Consulting</h1>
 <p>Data Analyst<br/>
-March 2007 – April 2008</p><br/>
+March 2007 – April 2008</p>
 <br/>
 <h1>Queensland Newspapers (News Ltd)</h1>
 <p>Customer Service & Circulation Officer<br/>
-June 2004 – February 2007</p><br/>
+June 2004 – February 2007</p>
 <br/>
 <h1>SM2 Web Developments</h1>
 <p>Network Manager (traineeship)<br/>
-April 2003 – May 2004</p><br/>
+April 2003 – May 2004</p>
 <br/>
 </div>
 
