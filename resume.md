@@ -9,7 +9,6 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <hr>
 <br/>
-<div class="wrapper">
 <h2>Education</h2>
 <br/>
 <h4>Griffith University</h4>
@@ -82,7 +81,6 @@ April 2003 – May 2004</p>
 -	Linux<br/>
 -	Mac OSX<br/>
 </p>
-</div>
 </div>
 <br/>
 <br/>
