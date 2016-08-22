@@ -11,7 +11,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <hr>
 <br/>
-<div class="col two">
+<div class="col one left">
 
 <h2>Education</h2><br/>
 <br/>
@@ -50,7 +50,6 @@ June 2004 – February 2007</p>
 <p>Network Manager (traineeship)<br/>
 April 2003 – May 2004</p>
 <br/>
-</div>
 
 <div class="right">
 <h2>Skills</h2><br/>
