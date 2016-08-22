@@ -10,7 +10,8 @@ layout: default
 <br>
 <br>
 
-<ul class="post-list centre">
+<div class="centre">
+<ul class="post-list">
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -21,6 +22,7 @@ layout: default
       </li>
     {% endfor %}
 </ul>
+</div>
 <br/>
 <span class="contacticon center">
 	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
