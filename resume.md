@@ -12,14 +12,14 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <hr>
 <br/>
 
-<h1>Education</h1><br/>
+<h2>Education</h2><br/>
 <br/>
 <h4>Griffith University</h4>
 <p>Bachelor of Animation<br/>
 2015 – Present</p>
 
 <br/>
-<h1>Work Experience</h1><br/>
+<h2>Work Experience</h2><br/>
 <br/>
 <h4>BWS</h4>
 <p>Sales Assistant<br/>
@@ -50,7 +50,7 @@ June 2004 – February 2007</p>
 April 2003 – May 2004</p>
 <br/>
 
-<h1>Skills</h1><br/>
+<h2>Skills</h2><br/>
 <br/>
 <h4>Primary</h4>
 <p>
