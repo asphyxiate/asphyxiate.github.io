@@ -8,24 +8,22 @@ permalink: /resume/
 
 <br/>
 Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
-
-<br/>
 <br/>
 <hr>
-
+<br/>
 <div class="col left">
 
-<h1>Education<h1/><br/>
+<h2>Education</h2><br/>
 <br/>
-Griffith University<br/>
+<p>Griffith University<br/>
 Bachelor of Animation<br/>
-2015 – Present<br/>
+2015 – Present</p><br/>
 
 <br/>
 <br/>
-<h1>Work Experience<h1/><br/>
+<h2>Work Experience</h2><br/>
 <br/>
-BWS<br/>
+<p>BWS<br/>
 Sales Assistant<br/>
 August 2015 - Present<br/>
 <br/>
@@ -51,7 +49,7 @@ June 2004 – February 2007<br/>
 <br/>
 SM2 Web Developments<br/>
 Network Manager (traineeship)<br/>
-April 2003 – May 2004<br/>
+April 2003 – May 2004</p><br/>
 
 
 <br/>
@@ -59,16 +57,16 @@ April 2003 – May 2004<br/>
 </div>
 
 <div class="col right">
-<h1>Skills<h1/><br/>
+<h2>Skills</h2><br/>
 <br/>
-Primary<br/>
-<br/>
+<h1>Primary</h1><br/>
+<br/><p>
 -	Modelling<br/>
 -	3D Animation<br/>
+</p><br/>
 <br/>
-<br/>
-Secondary<br/>
-<br/>
+<h1>Secondary</h1><br/>
+<br/><p>
 -	Rigging<br/>
 -	Texturing<br/>
 -	Lighting<br/>
@@ -78,10 +76,10 @@ Secondary<br/>
 -	Web Design<br/>
 -	Photography<br/>
 -	IT Support<br/>
+</p><br/>
 <br/>
-<br/>
-Software<br/>
-<br/>
+<h1>Software</h1><br/>
+<br/><p>
 -	Maya<br/>
 -	Vue Xstream<br/>
 -	Photoshop<br/>
@@ -94,7 +92,7 @@ Software<br/>
 -	Windows<br/>
 -	Linux<br/>
 -	Mac OSX<br/>
-
+</p>
 </div>
 
 <hr/>
