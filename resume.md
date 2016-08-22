@@ -16,7 +16,7 @@ Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_b
 <br/>
 <h1>Griffith University</h1>
 <p>Bachelor of Animation<br/>
-2015 – Present</p><br/>
+2015 – Present</p>
 
 <br/>
 <h2>Work Experience</h2><br/>
@@ -53,12 +53,12 @@ April 2003 – May 2004</p>
 <h2>Skills</h2><br/>
 <br/>
 <h1>Primary</h1>
-<br/><p>
+<p>
 -	Modelling<br/>
 -	3D Animation<br/>
 </p><br/>
-<h1>Secondary</h1><br/>
-<br/><p>
+<h1>Secondary</h1>
+<p>
 -	Rigging<br/>
 -	Texturing<br/>
 -	Lighting<br/>
@@ -70,7 +70,7 @@ April 2003 – May 2004</p>
 -	IT Support<br/>
 </p><br/>
 <h1>Software</h1>
-<br/><p>
+<p>
 -	Maya<br/>
 -	Vue Xstream<br/>
 -	Photoshop<br/>
@@ -85,8 +85,7 @@ April 2003 – May 2004</p>
 -	Mac OSX<br/>
 </p>
 
-<hr/>
-
+<br/>
 <br/>
 <hr/>
 <br/>
