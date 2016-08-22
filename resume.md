@@ -10,48 +10,7 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
 <hr>
 <br/>
 <div class="resumetable">
-    <div class="resumeleft">
-        <h2>Education</h2>
-        <br/>
-        <h4>Griffith University</h4>
-        <p>Bachelor of Animation<br/>
-        2015 – Present</p>
-        <br/>
-        <h2>Work Experience</h2>
-        <br/>
-        <h4>BWS</h4>
-        <p>Sales Assistant<br/>
-        August 2015 - Present
-        <br/>
-        <h4>Thiess Pty Ltd</h4>
-        <p>Senior Help Desk Officer<br/>
-        August 2012 – June 2015
-        <br/>
-        <h4>Thiess Pty Ltd</h4>
-        <p>Help Desk Officer<br/>
-        September 2009 – August 2012
-        <br/>
-        </div>
-        <div class="resumeright">
-        <h4>HSBC Insurance Brokers (UK)</h4>
-        <p>Application Support<br/>
-        July 2008 – June 2009
-        <br/>
-        <h4>Telstra Communications/Julia Ross Consulting</h4>
-        <p>Data Analyst<br/>
-        March 2007 – April 2008
-        <br/>
-        <h4>Queensland Newspapers (News Ltd)</h4>
-        <p>Customer Service/Circulation Officer<br/>
-        June 2004 – February 2007
-        <br/>
-        <h4>SM2 Web Developments</h4>
-        <p>Network Manager (traineeship)<br/>
-        April 2003 – May 2004</p>
-        <br/>
-        </div>
-        </div>
-        
+     <div class="resumeright">
         <h2>Skills</h2>
         <br/>
         <h4>Primary</h4>
@@ -86,7 +45,47 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         -	Linux<br/>
         -	Mac OSX<br/>
         </p>
-
+        </div>
+    <div class="resumeleft">
+        <h2>Education</h2>
+        <br/>
+        <h4>Griffith University</h4>
+        <p>Bachelor of Animation<br/>
+        2015 – Present</p>
+        <br/>
+        <h2>Work Experience</h2>
+        <br/>
+        <h4>BWS</h4>
+        <p>Sales Assistant<br/>
+        August 2015 - Present
+        <br/>
+        <h4>Thiess Pty Ltd</h4>
+        <p>Senior Help Desk Officer<br/>
+        August 2012 – June 2015
+        <br/>
+        <h4>Thiess Pty Ltd</h4>
+        <p>Help Desk Officer<br/>
+        September 2009 – August 2012
+        <br/>
+        <h4>HSBC Insurance Brokers (UK)</h4>
+        <p>Application Support<br/>
+        July 2008 – June 2009
+        <br/>
+        <h4>Telstra Communications/Julia Ross Consulting</h4>
+        <p>Data Analyst<br/>
+        March 2007 – April 2008
+        <br/>
+        <h4>Queensland Newspapers (News Ltd)</h4>
+        <p>Customer Service/Circulation Officer<br/>
+        June 2004 – February 2007
+        <br/>
+        <h4>SM2 Web Developments</h4>
+        <p>Network Manager (traineeship)<br/>
+        April 2003 – May 2004</p>
+        <br/>
+        </div>
+   
+</div>
 <br/>
 <br/>
 <hr/>
