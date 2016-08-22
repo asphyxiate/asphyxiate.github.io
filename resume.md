@@ -47,8 +47,8 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         <p>Network Manager (traineeship)<br/>
         April 2003 – May 2004</p>
         <br/>
-    </div>
-    <div class="resumeright">
+        
+        <div class="resumeright">
         <h2>Skills</h2>
         <br/>
         <h4>Primary</h4>
@@ -83,7 +83,6 @@ Looking for a PDF? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">C
         -	Linux<br/>
         -	Mac OSX<br/>
         </p>
-    </div>
 </div>
 <br/>
 <br/>
