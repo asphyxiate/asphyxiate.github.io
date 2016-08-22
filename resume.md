@@ -4,8 +4,6 @@ title: résumé
 permalink: /resume/
 ---
 
-## <img class="col one right" src="/img/res_pic.jpg">
-
 <br/>
 Want to take it with you? <a href="/img/Duane_McPherson_-_Resume.pdf" target="_blank">Click here!</a>
 <br/>
