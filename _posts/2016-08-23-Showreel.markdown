@@ -2,11 +2,11 @@
 layout: post
 title:  Check out my 2016 Showreel!
 date:   2016-08-23 12:03:00
-description: <iframe width="560" height="315" src="https://www.youtube.com/embed/3nxWtvLDn5s" frameborder="0" allowfullscreen></iframe>
+description: <div class="embed-container"><iframe src="https://www.youtube.com/embed/3nxWtvLDn5s" frameborder="0" allowfullscreen></iframe></div>
 ---
 Check out my 2016 showreel to see some of the things I've been working on lately!<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3nxWtvLDn5s" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/3nxWtvLDn5s" frameborder="0" allowfullscreen></iframe></div>
 <br/>
 <hr/>
 <span class="contacticon center">
