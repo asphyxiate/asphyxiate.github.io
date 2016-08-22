@@ -50,7 +50,7 @@ June 2004 – February 2007</p>
 <p>Network Manager (traineeship)<br/>
 April 2003 – May 2004</p>
 <br/>
-
+</div>
 <div class="right">
 <h2>Skills</h2><br/>
 <br/>
