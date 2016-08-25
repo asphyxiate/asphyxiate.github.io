@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Bouncing Balls   
-description: Bouncing balls animation test
-img: /img/BounceBall_thumb.jpg
+title: Flour Sack   
+description: Flour sack animation test
+img: /img/FlourSack_thumb.jpg
 ---
 
-My first ever animation while studying my Bachelors at Griffith University. At the time I was just learning Maya and so was excited to add a (admittedly simple!) background to spice things up a bit.
+The good old flour sack animation test. Completed during my first year of Bachelors at Griffith University.
 
-<div class="embed-container"><iframe src="https://player.vimeo.com/video/179999842" frameborder="0" allowfullscreen></iframe></div>
+All animation & modelling (excluding the sack rig) by myself.
+
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/180122572" frameborder="0" allowfullscreen></iframe></div>
 <div class="col three caption">
-	<a href="https://vimeo.com/179999842">Bouncing Balls</a> from <a href="https://vimeo.com/duanemcpherson">Duane McPherson</a> on <a href="https://vimeo.com">Vimeo</a>.
+	<a href="https://vimeo.com/180122572">Flour Sack Test</a> from <a href="https://vimeo.com/duanemcpherson">Duane McPherson</a> on <a href="https://vimeo.com">Vimeo</a>.
 </div>
 
 <br>
@@ -26,3 +28,4 @@ My first ever animation while studying my Bachelors at Griffith University. At t
 <div class="col three caption">
 	Please use one of the above links to get in contact with me :)
 </div>
+
