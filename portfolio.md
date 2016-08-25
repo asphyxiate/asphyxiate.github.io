@@ -17,7 +17,7 @@ permalink: /portfolio/
         {% endif %}    
         <span>
             <h1>{{ project.title }}</h1>
-            <br/>
+            <br>
             <p>{{ project.description }}</p>
         </span>
         </a>
@@ -35,7 +35,7 @@ permalink: /portfolio/
         {% endif %}    
         <span>
             <h1>{{ project.title }}</h1>
-            <br/>
+            <br>
             <p>{{ project.description }}</p>
         </span>
         </a>
