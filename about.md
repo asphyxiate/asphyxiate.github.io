@@ -4,7 +4,7 @@ title: about duane
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/prof_pic.png">
 
 <br/>
 Duane had spent 10 long, gruelling years climbing corporate ladders in the IT industry. He was good at what he did – DAMN good -, had great communication skills and interfaced well with people which led to quickly accessing and achieving desired results for clients and colleagues alike. But it wasn’t enough. He just wasn’t satisfied. He wasn’t happy. Something was missing… something… creative.
@@ -21,8 +21,9 @@ With his newfound skills in 3D character and environmental modelling, and with a
 <br/>
 <span class="contacticon center">
 	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://dmcmodelling.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+   	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+    <a href="http://vimeo.com/duanemcpherson"><i class="fa fa-vimeo-square"></i></a>
+    <a href="http://dmcmodelling.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
