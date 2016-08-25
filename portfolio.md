@@ -45,9 +45,9 @@ permalink: /portfolio/
 {% endif %}
 
 {% endfor %}
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 <span class="contacticon center">
 	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
    	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>

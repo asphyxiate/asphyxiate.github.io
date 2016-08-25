@@ -13,6 +13,8 @@ My first ever animation while studying my Bachelors at Griffith University. At t
 </div>
 
 <br>
+<hr/>
+<br>
 <span class="contacticon center">
 	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
    	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
