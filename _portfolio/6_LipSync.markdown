@@ -7,6 +7,7 @@ img: /img/LipSync_thumb.jpg
 
 My first shot at lip sync while studying my Bachelor of Animation at Griffith University.
 <br>
+<br>
 All animation & modelling (excluding the character rig) by myself.
 
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/180119021" frameborder="0" allowfullscreen></iframe></div>

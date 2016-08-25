@@ -7,6 +7,7 @@ img: /img/Weight_thumb.jpg
 
 A simple weight test animation from my first year studying Bachelor of Animation at Griffith University.
 <br>
+<br>
 All animation & modelling (excluding the character rig) by myself.
 
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/180016423" frameborder="0" allowfullscreen></iframe></div>

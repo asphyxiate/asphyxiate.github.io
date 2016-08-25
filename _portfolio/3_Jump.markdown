@@ -7,6 +7,7 @@ img: /img/Jump_thumb.jpg
 
 Just a simple jump animation from a standing start.
 <br>
+<br>
 All animation & modelling (excluding the character rig) by myself.
 
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/180002844" frameborder="0" allowfullscreen></iframe></div>

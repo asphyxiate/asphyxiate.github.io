@@ -7,6 +7,7 @@ img: /img/BounceBall_thumb.jpg
 
 My first ever animation while studying my Bachelors at Griffith University. At the time I was just learning Maya and so was excited to add a (admittedly simple!) background to spice things up a bit.
 <br>
+<br>
 All animation & modelling (excluding the ball rigs) by myself.
 
 <div class="embed-container"><iframe src="https://player.vimeo.com/video/179999842" frameborder="0" allowfullscreen></iframe></div>

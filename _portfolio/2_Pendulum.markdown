@@ -7,6 +7,7 @@ img: /img/Pendulum_thumb.jpg
 
 My second animation assessment while studying my Bachelors at Griffith University - the humble pendulum test! I wanted to add a little more character and story to my piece so I decided to tell the story of a cheeky UFO stealing a shrub from an unsuspecting household ;)
 <br>
+<br>
 All animation & modelling (excluding the pendulum rig) by myself.
 
 

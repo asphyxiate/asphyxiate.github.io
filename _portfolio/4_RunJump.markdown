@@ -7,7 +7,9 @@ img: /img/RunJump_thumb.jpg
 
 The assignment said "animate a simple run and jump". So of course I decided things would be cooler if the character transformed into a massive hulk mid jump!
 <br>
+<br>
 Created during my first year studying my Bachelors at Griffith University.
+<br>
 <br>
 All animation & modelling (excluding the character rigs) by myself.
 
