@@ -45,6 +45,7 @@ permalink: /portfolio/
 {% endif %}
 
 {% endfor %}
+<div class="wrapper"></div>
 <br>
 <hr/>
 <br>
