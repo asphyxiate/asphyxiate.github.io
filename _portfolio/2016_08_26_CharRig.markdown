@@ -14,6 +14,12 @@ All design, modelling, rigging, texturing, animation and rendering done by mysel
 <div class="col three caption">
 	<a href="https://vimeo.com/180276426">Character Rig</a> from <a href="https://vimeo.com/duanemcpherson">Duane McPherson</a> on <a href="https://vimeo.com">Vimeo</a>.
 </div>
+<br>
+And a quick little demonstration of the rigging controls in practice.
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/180278675" frameborder="0" allowfullscreen></iframe></div>
+<div class="col three caption">
+	<a href="https://vimeo.com/180278675">Character Rig - Controls Test</a> from <a href="https://vimeo.com/duanemcpherson">Duane McPherson</a> on <a href="https://vimeo.com">Vimeo</a>.
+</div>
 
 <br>
 <hr/>
