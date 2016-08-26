@@ -6,19 +6,23 @@ permalink: /about/
 
 <img class="col one right" src="/img/prof_pic.png">
 
-<br/>
-Duane had spent 10 long, gruelling years climbing corporate ladders in the IT industry. He was good at what he did – DAMN good -, had great communication skills and interfaced well with people which led to quickly accessing and achieving desired results for clients and colleagues alike. But it wasn’t enough. He just wasn’t satisfied. He wasn’t happy. Something was missing… something… creative.
+<p>
+Duane spent ten long, gruelling years climbing the corporate ladder in the IT industry. He was good at what he did. <b><i>Damn</i></b> good. He had great communication skills and interfaced well with people. He got results for both clients and colleagues alike. 
+</p>
+<p>
+But it just wasn’t enough. He wasn’t satisfied. He wasn’t happy. Something was missing. Something creative. It was to be a realisation that would alter the course of his life.
+</p>
+<p>
+With a newfound joy kindled in his heart and a willingness to subsist on little more than cup noodles and coffee for the next few years Duane turned his back on a life of opulence and success and dived headfirst into a Bachelor of Animation at Griffith University. Animation, 3D modelling and entertainment had been his passions for as long as he could remember. What greater challenge could there be than proving himself in this arena! 
+</p>
+<p>
+With honed skills in character and environmental modelling and a knack for 3D animation, Duane now looks forward to bringing together both old and new skillsets to help others realise their own dreams and make the power of imagination tangible!
+</p>
 
-The realisation would change the course of his life for the better.
 
-With new found joy in his heart and a willingness to survive on little more than cheap noodle cups for the next few years, Duane discarding his past life of opulence and heady success and dived headfirst into a Bachelor of Animation at Griffith University. Animation, 3D modelling, and entertainment had been passions for as long as he could remember; what greater challenge could there be than to prove himself in this arena!
-With his newfound skills in 3D character and environmental modelling, and with a knack for 3D animation, Duane now looks forward to bringing together skillsets old and new to help others realise their own dreams and make the power of imagination tangible!
-
-
-
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 <span class="contacticon center">
 	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
    	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
