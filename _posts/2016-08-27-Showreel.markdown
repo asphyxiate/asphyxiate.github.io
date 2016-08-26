@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Check out my 2016 Showreel!
+date:   2016-08-27 5:03:00
+description: <div class="embed-container"><iframe src="https://player.vimeo.com/video/180309791" frameborder="0" allowfullscreen></iframe></div>
+---
+Check out my 2016 showreel to see some of the things I've been working on lately!<br>
+
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/180309791" frameborder="0" allowfullscreen></iframe></div>
+<div class="col three caption">
+	<a href="https://vimeo.com/180309791">Duane McPherson 2016 Showreel</a> from <a href="https://vimeo.com/duanemcpherson">Duane McPherson</a> on <a href="https://vimeo.com">Vimeo</a>.
+</div>
+<br>
+Please note that the Malcolm, Max, Bodymech, Flour Sack, Pendulum and Ball rigs are *not* by me; they have their own amazingly talented creators!
+<br>
+<br>
+The amazing music you heard was "Read all about it" by the incredibly talented artist "The Passion HiFi".<br>
+Check them out at <a href="http://thepassionhifi.com" target="_blank">thepassionhifi.com</a>!!!
+<br>
+<hr/>
+<span class="contacticon center">
+	<a href="http://duanemcpherson.com/contact/"><i class="fa fa-envelope-square"></i></a>
+   	<a href="https://www.linkedin.com/in/duane-mcpherson" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+    <a href="http://vimeo.com/duanemcpherson" target="_blank"><i class="fa fa-vimeo-square"></i></a>
+    <a href="http://dmcmodelling.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://twitter.com/duanemcpherson" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
+
+<div class="col three caption">
+	Please use one of the above links to get in contact with me :)
+</div>
+
+
+
+
+
+
