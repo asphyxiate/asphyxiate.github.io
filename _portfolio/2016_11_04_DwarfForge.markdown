@@ -11,7 +11,7 @@ A low poly 3D environment with hand painted textures created to emulate the "Bli
 <br>
 This piece was also displayed at the 2016 Creat3d Art Exhibition in Brisbane Australia.
 
-<img src="/img/Dwarf_Forge_Final.jpg">
+<a href="http://duanemcpherson.com/img/Dwarf_Forge_Final.jpg" Target="_blank"><img src="/img/Dwarf_Forge_Final_small.jpg"></a>
 
 
 <br>
