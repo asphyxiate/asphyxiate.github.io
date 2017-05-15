@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pirate Chest Model   
-description: Pirate chest model & animation
+title: Dwarf Forge   
+description: Dwarf Forge 3D Environment
 img: /img/Forge_Thumb.jpg
 ---
 
