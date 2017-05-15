@@ -2,7 +2,7 @@
 layout: post
 title: Pirate Chest Model   
 description: Pirate chest model & animation
-img: /img/Chest_thumb.jpg
+img: /img/Forge_Thumb.jpg
 ---
 
 A low poly 3D environment with hand painted textures created to emulate the "Blizzard" style. The modelling was done in Maya and texture work in Photoshop.
